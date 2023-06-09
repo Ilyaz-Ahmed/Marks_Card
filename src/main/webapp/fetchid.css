@@ -1,0 +1,183 @@
+body{
+    margin: 10px;
+}
+
+header{
+    background-color: rgb(235, 171, 53);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+div{
+    position: relative;
+    left: 80px;
+    top: -10px;
+}
+p{
+    position: relative;
+    top: 10px;
+    right: 200px;
+    font-size: 12px;
+}
+
+.box{
+    display: flex;
+    
+
+    position: relative;
+    top: 10px;
+left: 00px;
+background-color:rgb(91, 167, 91);
+width: 400px;
+
+}
+
+.box table td:nth-child(1){
+    width: 120px;
+    
+}
+.box table tr{
+    
+    background-color:rgb(91, 167, 91);
+    color: white;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    text-transform: uppercase;
+
+}
+
+span{
+    
+    border: 1px solid rgb(255, 255, 255);
+    width: 600px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+
+.div1{
+    width: 195px;
+    background-color: rgb(25, 134, 207);
+    height: 18px;
+    position: relative;
+    top: 20px;
+    left: 00px;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.div2{
+    width: 130px;
+    background-color: rgb(25, 134, 207);
+    height: 18px;
+    position: relative;
+    top: -17px;
+    left: 450px;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.marks-table{
+    position: relative;
+    top: -18px;
+    left: 00px;
+    border-color: rgb(112, 112, 248);
+}
+
+.marks-table tr{
+    font-size: 10px;
+    text-align: end;
+}
+
+.marks-table tr th:nth-child(1){
+    text-align: center;
+}
+
+.marks-table tr th:nth-child(2){
+    text-align: left;
+}
+
+.marks-table tr:nth-child(2) td:nth-child(1){
+
+    text-align: left;
+}
+
+.marks-table tr:nth-child(3) td:nth-child(1){
+
+    text-align: left;
+}
+
+.marks-table tr:nth-child(4) td:nth-child(1){
+
+    text-align: left;
+}
+
+.marks-table tr:nth-child(5) td:nth-child(1){
+
+    text-align: left;
+}
+
+.marks-table tr:nth-child(6) td:nth-child(1){
+
+    text-align: left;
+}
+
+.marks-table tr:nth-child(7) td:nth-child(1){
+
+    text-align: left;
+}
+
+body .marks-table{
+
+    width: 10px;
+    
+}
+
+.partb{
+    position: relative;
+    bottom: 150px;
+    left: 450px;
+    font-size: 10px;
+    text-align: left;
+    width: 150px;
+    border-color:  rgb(112, 112, 248);
+}
+    
+.bottom{
+    border-color: white;
+    background-color: rgb(69, 141, 69);
+    position: relative;
+    bottom: 100px;
+    left: 190px;
+    width: 300px;
+    color: white;
+    font-size: 10px;
+    text-align: left;
+}
+
+button{
+    position: relative;
+    bottom: 10px;
+    left: -00px;
+    background-color:  rgb(235, 171, 53);
+    
+    
+    color: white;
+    
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    width: 900px;
+    position: relative;
+    bottom: -10px;
+    left: -10px;}
